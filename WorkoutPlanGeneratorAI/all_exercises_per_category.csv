@@ -1,0 +1,590 @@
+ID;Name;Category;Primary Muscle;Secondary Muscle;Equipment
+345;2 Handed Kettlebell Swing;Abs;;;Kettlebell
+1061;Abdominal Stabilization;Abs;Abs;;Gym mat
+2145;Abdominales sovieticas;Abs;Abs;;Kettlebell
+1051;Ball crunches;Abs;;;
+343;Barbell Ab Rollout;Abs;;;Barbell
+2177;Bauchtrainer;Abs;;Abs;
+1238;Bicipiti con trx;Abs;Biceps;;none (bodyweight exercise)
+2381;Bird dog;Abs;Abs;Glutes;none (bodyweight exercise)
+167;Cable Woodchoppers;Abs;;;
+91;Crunches;Abs;Abs;;Gym mat
+2290;Crunches HD;Abs;, Abs;;none (bodyweight exercise)
+92;Crunches With Cable;Abs;Abs;;
+416;Crunches With Legs Up;Abs;Abs;;
+94;Crunches on Machine;Abs;Abs;;
+544;Deadbug;Abs;;;
+2373;Dragon-flag;Abs;, Abs;Shoulders, Glutes, Lats, Triceps;
+2385;Dumbbell Crunches;Abs;Abs;;Dumbbell
+2058;Dynamic side hold;Abs;;Abs;Kettlebell
+2144;Flexión lateral;Abs;;;Dumbbell
+303;Flutter Kicks;Abs;, Abs;;
+2200;Frog stand;Abs;Shoulders, Biceps, , Abs;;none (bodyweight exercise)
+2207;Front Lever;Abs;Lats, Abs;;none (bodyweight exercise)
+2272;Front Plank;Abs;Abs;, Chest, Quads, ;none (bodyweight exercise)
+2211;Front lever pull-up;Abs;Biceps, Lats, Abs;Shoulders;Pull-up bar
+326;Full Sit Outs;Abs;Glutes, , Abs;;none (bodyweight exercise)
+166;Hanging Leg Raises;Abs;Abs;;Pull-up bar
+2376;Heel Touches;Abs;;Abs;none (bodyweight exercise)
+383;Hollow Hold;Abs;, Abs;;Gym mat, none (bodyweight exercise)
+2061;Horizontal traction isometry;Abs;Lats, Chest;Shoulders, Biceps;Pull-up bar
+2210;Ice Scream maker;Abs;Lats;Abs;none (bodyweight exercise)
+1052;Incline Crutches;Abs;Abs;;Incline bench
+165;Incline Plank With Alternate Floor Touch;Abs;Abs;;
+2128;Iperestensioni Lombari;Abs;Glutes;Hamstrings, , Lats;none (bodyweight exercise)
+1252;Kettlebell Swing;Abs;Shoulders, Glutes;Quads, Abs, ;Kettlebell
+1291;Knee Raises;Abs;Abs;;Pull-up bar
+2296;Kopfüber Gewichtaufheben;Abs;Abs;;Kettlebell
+281;L Hold;Abs;;;
+125;Leg Raises, Lying;Abs;Abs;;Gym mat
+126;Leg Raises, Standing;Abs;Abs;;
+1293;Leg raises pull up bar;Abs;Abs;, Quads;Pull-up bar
+2279;Lying Leg Raise;Abs;Abs;;none (bodyweight exercise)
+1286;Medicine ball booklet crunch;Abs;Abs;;none (bodyweight exercise)
+2039;Medicine ball twist;Abs;, Abs;;Swiss Ball
+93;Negative Crunches;Abs;Abs;;
+2212;Oblicuos en TRX;Abs;, Abs, ;Shoulders, Chest;
+197;Overhand Cable Curl;Abs;Biceps;;
+2150;PALLOF PRESS;Abs;Shoulders, Glutes, , Abs, , ;Chest, Triceps;
+2259;Piegamenti a una mano;Abs;Chest, Triceps;Shoulders, Abs;none (bodyweight exercise)
+2255;Planche de cote dynamique;Abs;;Abs;none (bodyweight exercise)
+2253;Planche dynamique;Abs;Abs;;none (bodyweight exercise)
+238;Plank;Abs;, Abs;Biceps, Quads, Triceps;none (bodyweight exercise)
+2044;Plank Shoulter Taps;Abs;Shoulders, Glutes, Abs;Lats;Gym mat
+2369;Plank-to-Elbow Extension;Abs;Shoulders, Abs, Triceps;, Chest;
+2024;Plate twist;Abs;, Abs;;Gym mat
+2254;Reach ups;Abs;;Abs;none (bodyweight exercise)
+409;Reverse Plank;Abs;;;
+263;Roman Chair;Abs;;;
+2340;Rotary Torso Machine;Abs;Abs;;
+2149;Russian Twist;Abs;Lats, , Abs;;Dumbbell, Gym mat, Swiss Ball
+631;Scissors;Abs;Abs;;
+2071;Seated Knee Tuck;Abs;Abs;;none (bodyweight exercise)
+2070;Seated Knee Tuck;Abs;Abs;;none (bodyweight exercise)
+1070;Side Bends on Machine;Abs;;Abs;Dumbbell
+176;Side Crunch;Abs;;Abs;Gym mat
+278;Side Dumbbell Trunk Flexion;Abs;;Abs;Dumbbell
+325;Side Plank;Abs;Abs;;none (bodyweight exercise)
+2294;Side Plank;Abs;;Biceps, Triceps;none (bodyweight exercise)
+1923;Side plank right;Abs;;;none (bodyweight exercise)
+2299;Sit-Ups (conventional);Abs;Abs;;none (bodyweight exercise)
+2300;Sit-Ups (elbow to knee);Abs;;Abs;none (bodyweight exercise)
+95;Sit-ups;Abs;Abs;;
+170;Splinter Sit-ups;Abs;;;
+1288;Squat box;Abs;Glutes, Quads, ;;none (bodyweight exercise)
+2391;Standing Side Crunches;Abs;;Abs;none (bodyweight exercise)
+2344;TORSO TWIST;Abs;Abs;;none (bodyweight exercise)
+2209;TRX roll out;Abs;Abs;, ;none (bodyweight exercise)
+2389;Toe Taps;Abs;Abs;;none (bodyweight exercise)
+2258;Trazioni impugnatura inversa;Abs;Biceps, Lats;Abs;Pull-up bar
+1239;Trazioni orizzontali al trx;Abs;Shoulders, Biceps, Lats;;none (bodyweight exercise)
+310;Trunk Rotation With Cable;Abs;;Lats;
+318;Turkish Get-Up;Abs;Shoulders, Glutes, , ;Shoulders, Glutes, , ;Dumbbell
+2042;Vpushup;Abs;Chest, Quads, Abs, Triceps;;none (bodyweight exercise)
+2378;bicycle crunches;Abs;Abs;;none (bodyweight exercise)
+1296;commando pull-ups;Abs;Shoulders, Biceps, Lats, ;;Pull-up bar
+2065;walking bridge;Abs;Abs;Shoulders, Biceps, Glutes, Lats;none (bodyweight exercise)
+2148;Alternating Biceps Curls With Dumbbell;Arms;Biceps;;Dumbbell
+1907;Alternating bicep curls;Arms;;;Dumbbell
+2186;Australian pull-ups;Arms;Shoulders, Biceps, Lats;;none (bodyweight exercise)
+289;Axe Hold;Arms;;;Dumbbell
+1702;Backward arm circles;Arms;;;none (bodyweight exercise)
+759;Barbell Reverse Wrist Curl;Arms;;;Barbell, Bench
+344;Barbell Triceps Extension;Arms;Triceps;Shoulders, Chest;Barbell
+758;Barbell Wrist Curl;Arms;Shoulders, Hamstrings;Biceps, ;Barbell, Bench
+2292;Bench Dips On Floor HD;Arms;Biceps, , Triceps;Shoulders, Chest, , ;none (bodyweight exercise)
+88;Bench Press Narrow Grip;Arms;Triceps;Shoulders, Chest;Barbell, Bench
+2247;Biceps Close Grip Pull Down;Arms;Biceps;Shoulders, Lats;
+2387;Biceps Curl Machine;Arms;Biceps;;
+129;Biceps Curl With Cable;Arms;Biceps;;
+2304;Biceps Curls (Dumbbell);Arms;Biceps;;Dumbbell
+74;Biceps Curls With Barbell;Arms;Biceps;;Barbell
+81;Biceps Curls With Dumbbell;Arms;Biceps;;Dumbbell
+80;Biceps Curls With SZ-bar;Arms;Biceps;;SZ-Bar
+2107;Biceps concentrado martillo (maquina);Arms;Biceps;;
+341;Body-Ups;Arms;;;none (bodyweight exercise)
+2072;Cable Concentration Curl;Arms;Biceps, ;;
+2188;Claps over the head;Arms;Shoulders;;none (bodyweight exercise)
+2118;Curl Araña;Arms;Biceps;;
+2146;Curl de biceps con agarre prono;Arms;Biceps;;Dumbbell
+2102;Curl de biceps con mancuernas sentado;Arms;Biceps;;
+1281;Curl with kettlebell two hands;Arms;Biceps;;Kettlebell
+347;Deadhang;Arms;;;
+83;Dips Between Two Benches;Arms;Triceps;;Bench
+2327;Double Kettlebell Clean and Press;Arms;Shoulders, Biceps, , Quads, , Triceps;Hamstrings, Glutes, Lats, Abs;Kettlebell
+275;Dumbbell Concentration Curl;Arms;;Biceps;Dumbbell
+2034;Dumbbell Floor Press;Arms;Chest;Shoulders, Biceps, Triceps;Dumbbell
+298;Dumbbell Incline Curl;Arms;Biceps;;Dumbbell
+274;Dumbbell Triceps Extension;Arms;Triceps;Shoulders, Chest;Dumbbell
+2191;Dumbbell bicep curl to press;Arms;Biceps;;Dumbbell
+2193;Dumbbell close grip bench press;Arms;Chest, Triceps;;Dumbbell
+2189;Dumbbell drag curls;Arms;Biceps;;Dumbbell
+2194;Dumbbell upright-row;Arms;Shoulders, Biceps, ;;Dumbbell
+2190;Dumbbell wide bicep curls;Arms;Biceps;;Dumbbell
+87;Dumbbells on Scott Machine;Arms;Biceps;;
+2263;EZ-Bar Skullcrusher - NB;Arms;Triceps;;SZ-Bar
+2183;Finger Pushup;Arms;;;none (bodyweight exercise)
+1074;Fingerboard 20 mm edge;Arms;;;
+1767;Floor dips;Arms;;;none (bodyweight exercise)
+2302;Forearm Curls (overhand grip);Arms;;;Dumbbell
+2303;Forearm Curls (underhand grip);Arms;;;Dumbbell
+1687;Forward arm circles;Arms;;;none (bodyweight exercise)
+86;Hammercurls;Arms;Biceps;;Dumbbell
+138;Hammercurls on Cable;Arms;Biceps;;
+317;Hand Grip;Arms;;;
+2301;Hand Gripper;Arms;;;
+291;Hercules Pillars;Arms;Biceps, , Triceps;Shoulders;
+2264;High-Cable Cross Tricep Extention - NB;Arms;Triceps;;
+1190;Incline Skull Crush;Arms;Triceps;;
+2265;JM Press;Arms;Triceps;Biceps, Chest;Barbell
+1055;One Arm Triceps Extensions on Cable;Arms;;;
+361;Pike Push Ups;Arms;Chest;Triceps;none (bodyweight exercise)
+2395;Plate Pinch Hold;Arms;Shoulders;;
+193;Preacher Curls;Arms;;;SZ-Bar
+1076;Pullup on fingerboard;Arms;;;none (bodyweight exercise)
+195;Push Ups;Arms;Triceps;Shoulders, Chest, Abs;none (bodyweight exercise)
+1559;Push-up rotations;Arms;;;none (bodyweight exercise)
+2182;Recruitment Pulls;Arms;;;
+2077;Rest (for timed workouts);Arms;;;
+208;Reverse Bar Curl;Arms;Biceps;;SZ-Bar
+771;Reverse Curl;Arms;Biceps, ;Biceps;Barbell, Dumbbell
+1193;Reverse EZ Bar Cable Curls;Arms;Biceps;;SZ-Bar
+2257;Reverse Grip Barbell Curls;Arms;Biceps;;Barbell
+1192;Reverse Preacher Curl (Close Grip);Arms;Biceps;;SZ-Bar
+360;Ring Dips;Arms;Triceps;;
+2256;Seated Dumbbell Curls;Arms;Biceps;;Dumbbell
+386;Seated Triceps Press;Arms;Triceps;;Bench, Dumbbell
+2412;Seated W Curl;Arms;Biceps, ;;Bench, Dumbbell
+2307;Shoulder Press (Dumbbell);Arms;Shoulders;;Dumbbell
+2172;Shoulder width three-point push-up;Arms;;;none (bodyweight exercise)
+205;Single-arm Preacher Curl;Arms;Biceps;;Dumbbell
+85;Skullcrusher Dumbbells;Arms;Triceps;;Bench, Dumbbell
+84;Skullcrusher SZ-bar;Arms;Triceps;;Bench, SZ-Bar
+1071;Sloper hanging;Arms;;;none (bodyweight exercise)
+218;Smith Machine Close-grip Bench Press;Arms;Triceps;Chest;
+768;Standing Bicep Curl;Arms;Biceps, ;;Dumbbell
+382;Standing Rope Forearm;Arms;;;
+2197;Standing biceps stretch left;Arms;Shoulders, Biceps, Chest;;none (bodyweight exercise)
+2198;Standing biceps stretch right;Arms;Shoulders, Biceps, Chest;;
+1191;Straight Bar Cable Curls;Arms;Biceps;;
+2221;TRX Tricep Extension;Arms;Triceps;;
+2223;TRX dips;Arms;Triceps;Chest;
+2216;TRX gorilla biceps curl;Arms;;Biceps;
+2214;TRX hammer curl - biceps;Arms;Biceps;;
+279;Tricep Dumbbell Kickback;Arms;Triceps;;Dumbbell
+1073;Tricep Pushdown on Cable;Arms;Triceps;;
+2336;Triceps Dips;Arms;;;
+2338;Triceps Dips (Assisted);Arms;Triceps;Chest;
+89;Triceps Extensions on Cable;Arms;Triceps;;
+90;Triceps Extensions on Cable With Bar;Arms;Triceps;;
+139;Triceps Machine;Arms;Triceps;;
+2306;Triceps Overhead (Dumbbell);Arms;Triceps;;Dumbbell
+2141;Triceps Pushdown;Arms;Triceps;;
+2195;Triceps stretch left;Arms;Triceps;;none (bodyweight exercise)
+2196;Triceps stretch right;Arms;Triceps;;none (bodyweight exercise)
+2218;Trx Single Arm Bicep Curl;Arms;Biceps, ;Shoulders, ;
+203;Wall Pushup;Arms;Shoulders, Chest, Triceps;Glutes, Abs, , ;none (bodyweight exercise)
+2165;Wrist curl, dumbbells;Arms;;;Dumbbell
+2184;knee push-ups;Arms;Shoulders, Chest;, Triceps;none (bodyweight exercise)
+1283;one-handed kettlebell curls;Arms;Biceps;;Kettlebell
+2260;Arco femorale una gamba;Back;Glutes, Lats;;none (bodyweight exercise)
+2220;Back bridge;Back;;Shoulders, Hamstrings, Calves, Lats, , Triceps;none (bodyweight exercise)
+2122;Back extensión;Back;Lats, ;;
+1884;Back neck stretch;Back;;;none (bodyweight exercise)
+1826;Backward shoulder rotation;Back;;;none (bodyweight exercise)
+2346;Band pull-aparts;Back;;;
+362;Bent Over Dumbbell Rows;Back;Lats;;Bench, Dumbbell
+109;Bent Over Rowing;Back;Lats;Shoulders, Biceps;Barbell
+110;Bent Over Rowing Reverse;Back;Lats;Shoulders, Biceps;Barbell
+1045;Bent Over Rowing Reverse;Back;Lats;Shoulders, Biceps;Barbell
+2032;Bent over row to external rotation;Back;;;
+2330;Blackroll;Back;;;
+2321;Cable Row;Back;;;
+1791;Child's pose;Back;;;none (bodyweight exercise)
+803;Chin Up;Back;;;Pull-up bar
+1838;Chin tuck;Back;;;none (bodyweight exercise)
+181;Chin-ups;Back;Lats;;Pull-up bar
+1913;Clockwise neck circles;Back;;;none (bodyweight exercise)
+213;Close-grip Lat Pull Down;Back;Lats;;
+2415;Cobra Stretch;Back;Abs;Chest;none (bodyweight exercise)
+1915;Counterclockwise neck circles;Back;;;none (bodyweight exercise)
+105;Deadlifts;Back;Lats;Glutes;Barbell
+381;Deficit Deadlift;Back;;Hamstrings, Glutes, Lats, Abs, ;Barbell
+2037;Dumbbell Hang Power Cleans;Back;;;Dumbbell
+2329;Dumbbell Row;Back;;;Dumbbell
+1972;Elevated prayer stretch;Back;Lats;;Bench
+1814;Forward shoulder rotation;Back;;;none (bodyweight exercise)
+1058;Front Pull narrow;Back;Lats;Biceps, ;Barbell, SZ-Bar
+1063;Front Wood Chop;Back;;;
+2179;Front lever tuck;Back;Shoulders, Biceps, Lats;Triceps;Pull-up bar
+1896;Front neck stretch;Back;;;none (bodyweight exercise)
+1059;Front pull wide;Back;Lats;Shoulders, Biceps, ;Barbell, SZ-Bar
+1919;Head tilts;Back;;;none (bodyweight exercise)
+2266;Helms Row;Back;Lats;;Dumbbell
+2143;High Pull;Back;Lats;;
+376;Hip Raise, Lying;Back;;;none (bodyweight exercise)
+128;Hyperextensions;Back;;;
+1080;Incline Bench Reverse Fly - Hello;Back;Shoulders, ;;Dumbbell
+2250;Incline Chest-Supported Dumbbell Row;Back;Biceps, Lats, ;;Bench, Dumbbell
+340;Incline Dumbbell Row;Back;;Lats;Dumbbell, Incline bench
+2249;Isometria trazioni impugnatura inversa;Back;Lats;Biceps, ;Pull-up bar
+2115;JALON EN BANCO INCLINADO;Back;Lats;;
+2113;JALONES PECHO NEUTRO;Back;Biceps, Lats, ;;
+2098;Jalón abierto;Back;Lats;;
+2099;Jalón abierto supino;Back;Lats;;
+2100;Jalón cerrado;Back;Lats;;
+2101;Jalón cerrado supino;Back;Lats;;
+1803;Kettlebell deadlifts;Back;;;Kettlebell
+1202;LYING DUMBBELL ROW SS SEATED SHRUG;Back;Lats;;Dumbbell
+2398;Lat Pull DB;Back;Lats;Glutes;Dumbbell
+188;Lat Pull Down (Leaning Back);Back;Lats;;
+187;Lat Pull Down (Straight Back);Back;Lats;;
+2320;Lat Pull Down (close grip);Back;;;
+2319;Lat Pull Down (narrow grip);Back;;;
+1909;Left levator scapulae stretch;Back;;;none (bodyweight exercise)
+214;Leverage Machine Iso Row;Back;Lats;;
+143;Long-Pulley (low Row);Back;Lats;Biceps, ;
+144;Long-Pulley, Narrow;Back;Lats;Biceps, ;
+2318;Lower Back Extensions;Back;;;
+2267;Meadows Row;Back;Lats, ;Biceps, Abs;Barbell
+626;Muscle up;Back;Biceps, Hamstrings;;Pull-up bar
+1917;Neck half circles;Back;;;none (bodyweight exercise)
+2142;One Arm Bent Row;Back;;;
+2114;PULL OVER POLEA ALTA;Back;Lats, ;;
+202;Pendelay Rows;Back;Lats, ;Biceps, Triceps;Barbell
+429;Prone Scapular Retraction - Arms at Side;Back;;;
+140;Pull Ups on Machine;Back;Lats;Shoulders, Biceps, ;
+107;Pull-ups;Back;Lats;Shoulders, Biceps, ;Pull-up bar
+2241;Pullover;Back;Chest;Lats;Dumbbell
+2352;Pullover Machine;Back;Lats;Chest, Triceps;
+1236;Quadriped Arm and Leg Raise;Back;Shoulders, Glutes, , ;Lats;none (bodyweight exercise)
+1973;Quadruped thoracic rotation left;Back;;;none (bodyweight exercise)
+1974;Quadruped thoracic rotation right;Back;;;none (bodyweight exercise)
+2124;REMO AL MENTON;Back;Lats;;
+161;Rack Deadlift;Back;Glutes;Biceps;
+2123;Remo Gironda;Back;Lats;;
+2087;Remo maquina abierto supino;Back;;;
+2088;Remo maquina agarre estrecho;Back;;;
+2089;Remo maquina agarre estrecho supino;Back;;;
+670;Renegade Row;Back;Lats, ;;Dumbbell
+2181;Reverse Snow Angel;Back;;Shoulders, Hamstrings, Glutes, , Abs;none (bodyweight exercise)
+2397;Reverse Wood Chops;Back;Glutes, Lats;Shoulders, Biceps, , Quads, Abs;none (bodyweight exercise)
+1911;Right levator scapulae stretch;Back;;;none (bodyweight exercise)
+2366;Roll Down;Back;;Hamstrings;none (bodyweight exercise)
+801;Row;Back;Lats, ;Quads;Barbell, Dumbbell, Pull-up bar
+1044;Rowing with TRX band;Back;;;none (bodyweight exercise)
+142;Rowing, Lying on Bench;Back;Lats;;
+108;Rowing, Seated;Back;Lats;;
+106;Rowing, T-bar;Back;Lats;Shoulders, Biceps, ;
+1201;SEATED CABLE MID TRAP SHRUG;Back;Lats;;
+2399;Scapula Pulls;Back;Lats, ;;Pull-up bar
+2168;Scorpion Kick;Back;;;none (bodyweight exercise)
+2086;Seated Cable Row;Back;;;
+1200;Seated Cable Rows;Back;Lats;;
+2057;Seated rear delt rise;Back;Lats;;Dumbbell
+339;Shotgun Row;Back;Lats;;
+1965;Single Arm Plank to Row;Back;Shoulders, Biceps, , Lats, , Abs, ;;Kettlebell
+2361;Sit & Reach;Back;Hamstrings;;Gym mat
+2174;Skydiver with arms in T-position;Back;;;none (bodyweight exercise)
+2411;Snatch OL;Back;Shoulders, Hamstrings, Glutes, Quads;Lats;Barbell
+216;Straight-arm Pull Down (bar Attachment);Back;Lats;Triceps;
+215;Straight-arm Pull Down (rope Attachment);Back;Lats;Triceps;
+330;Superman;Back;Glutes, Lats;;Gym mat
+1198;T-Bar row;Back;Lats, ;;Barbell
+2178;Trazioni orizzontali;Back;Shoulders, Biceps, Lats;;Pull-up bar
+212;Underhand Lat Pull Down;Back;Lats;Biceps;
+2348;Upper Back;Back;Shoulders, ;Biceps, Lats;
+1199;V-BAR PULL DOWNS;Back;Lats;;
+424;V-Bar Pulldown;Back;;;
+548;Wall Slides;Back;Biceps, Hamstrings, Chest, , Triceps;;none (bodyweight exercise)
+204;Wide-grip Pulldown;Back;Lats;;
+2033;YWTs;Back;;;
+2206;Yoga exercise: Cow-cat;Back;Shoulders, Lats, ;, Abs;Gym mat
+2166;scorpion kick;Back;;;none (bodyweight exercise)
+308;Calf Press Using Leg Press Machine;Calves;Calves, ;;
+104;Calf Raises on Hackenschmitt Machine;Calves;Calves;;
+2162;Calf raises, left leg;Calves;Calves;;none (bodyweight exercise)
+1048;Calf raises, one legged;Calves;Calves;;
+1952;Calf raises, right leg;Calves;;;none (bodyweight exercise)
+103;Sitting Calf Raises;Calves;;Calves;
+102;Standing Calf Raises;Calves;Calves;;
+2159;Tibialis raises;Calves;;;none (bodyweight exercise)
+2078;3D lunge warmup;Cardio;;;Dumbbell
+2046;Bag training;Cardio;Shoulders, Chest, ;Biceps, Hamstrings, Calves, Lats, , Abs;none (bodyweight exercise)
+2277;Bodyweight Squat HD;Cardio;Quads;Calves, Glutes, , Abs, ;none (bodyweight exercise)
+2413;ClimbMill;Cardio;Quads;Hamstrings, Glutes;
+806;Cycling;Cardio;, ;Hamstrings, , Glutes, Lats, Quads;none (bodyweight exercise)
+2164;Cycling cardio session;Cardio;;;
+1257;Elliptical;Cardio;Glutes, Quads, ;Biceps, Abs, Triceps;none (bodyweight exercise)
+304;High Knee Jumps;Cardio;Hamstrings, Calves, Quads, ;, Abs, ;
+2288;High Knee Skips HD;Cardio;, Abs;Biceps, Glutes, Quads, Triceps;none (bodyweight exercise)
+1529;High knees;Cardio;;;none (bodyweight exercise)
+423;Jogging;Cardio;;;
+1671;Jump rope: basic jumps;Cardio;;;none (bodyweight exercise)
+2280;Jumping Jack HD;Cardio;Quads;Glutes, , Abs;none (bodyweight exercise)
+2284;Jumping Jack HD;Cardio;Calves, Quads;Glutes, , Abs;none (bodyweight exercise)
+2342;Recumbent Bike;Cardio;Hamstrings, Calves, Glutes, Quads;;
+2049;Rowing Machine;Cardio;Shoulders, Biceps, Hamstrings, , Calves, Glutes, Lats, , Quads, Abs, , , ;;none (bodyweight exercise)
+397;Run;Cardio;;;
+398;Run - Interval Training;Cardio;;;
+269;Run - Treadmill;Cardio;;;
+2305;Running;Cardio;;;none (bodyweight exercise)
+411;Skipping - Standard;Cardio;Calves;;
+293;Stationary Bike;Cardio;;;
+1206;Suspended crossess;Cardio;Chest;;none (bodyweight exercise)
+1255;Swimming 50m sprints;Cardio;;;
+2252;Talons fesses;Cardio;Calves;Hamstrings;none (bodyweight exercise)
+2067;Walking;Cardio;Hamstrings, Calves, Glutes, Lats, , Quads, Abs;;none (bodyweight exercise)
+1187;Zone 2 Running;Cardio;;;
+2339;box jumps;Cardio;Glutes;Calves;none (bodyweight exercise)
+1731;4-count burpees;Chest;;;none (bodyweight exercise)
+2103;Aperturas en polea;Chest;Shoulders, Biceps, Chest;;
+2261;Barbell Bench Press - NB;Chest;Chest;Shoulders, Triceps;Barbell
+307;Bear Walk;Chest;Shoulders, Calves, Chest, Abs, , , Triceps;Glutes, Lats, , Quads, ;none (bodyweight exercise)
+192;Bench Press;Chest;Chest;Shoulders, Triceps;Barbell, Bench
+97;Benchpress Dumbbells;Chest;Chest;Shoulders, Triceps;Bench, Dumbbell
+354;Burpees;Chest;;;
+98;Butterfly;Chest;Chest;Shoulders;
+2324;Butterfly;Chest;;;
+99;Butterfly Narrow Grip;Chest;Chest;;
+207;Cable Cross-over;Chest;Chest;Shoulders;
+1203;Cable Fly;Chest;Chest;;
+1064;Chest Press;Chest;Chest;;
+2036;Close-grip Press-ups;Chest;, Lats, Chest, ;Shoulders, Biceps, Triceps;none (bodyweight exercise)
+194;Cross-Bench Dumbbell Pullovers;Chest;Lats, Chest, ;;Dumbbell
+100;Decline Bench Press Barbell;Chest;Chest;;Barbell
+101;Decline Bench Press Dumbbell;Chest;Chest;;Dumbbell
+260;Decline Pushups;Chest;Chest;Shoulders;none (bodyweight exercise)
+1050;Diamond push ups;Chest;Chest;Triceps;none (bodyweight exercise)
+781;Dips;Chest;Chest, Triceps;Triceps;none (bodyweight exercise)
+2246;Dumbbell Chest Press;Chest;Chest;Shoulders, Triceps;
+2322;Dumbbell Chest Press;Chest;;;Dumbbell
+2323;Dumbbell Hex Press;Chest;;;Dumbbell
+896;Dumbbell Push-Up;Chest;;;Dumbbell
+122;Fly With Cable;Chest;Chest;;
+145;Fly With Dumbbells;Chest;Chest;;Dumbbell
+146;Fly With Dumbbells, Decline Bench;Chest;Chest;;Dumbbell
+1779;High plank;Chest;;;none (bodyweight exercise)
+163;Incline Bench Press - Barbell;Chest;Chest;Shoulders, Triceps;Barbell, Incline bench
+210;Incline Bench Press - Dumbbell;Chest;Chest;Shoulders, Triceps;Dumbbell, Incline bench
+1049;Incline Bench Press - MP;Chest;Chest;Shoulders, Triceps;
+2408;Incline Chest Press DB;Chest;Chest;Triceps;Dumbbell
+2244;Incline Dumbbell Bench Press;Chest;Chest;Shoulders;Dumbbell
+206;Incline Dumbbell Fly;Chest;Chest;;Dumbbell, Incline bench
+2245;Incline Dumbbell Press;Chest;Chest;Shoulders, Triceps;Dumbbell
+168;Incline Push up;Chest;Chest;Hamstrings;
+2156;Inverted Rows;Chest;Biceps, Lats;Chest, Abs, ;none (bodyweight exercise)
+338;Isometric Wipers;Chest;Chest;Abs;none (bodyweight exercise)
+211;Leverage Machine Chest Press;Chest;Chest;;
+2236;Low Pulley Cable fFly;Chest;Chest;Shoulders;
+2237;Low Pulley Cable fFly;Chest;Chest;Shoulders;
+2238;Low Pulley Cable fFly;Chest;Chest;Shoulders;
+2262;Low-Cable Cross-Over - NB;Chest;Chest;Shoulders;
+1205;Machine chest fly;Chest;Chest;;
+1715;Mountain climbers;Chest;;;none (bodyweight exercise)
+1742;No push-up burpees;Chest;;;none (bodyweight exercise)
+1069;Overhead Press;Chest;Shoulders;;Barbell
+2111;PRESS HORIZONTAL;Chest;Chest;;
+270;Pause Bench;Chest;Chest;Triceps;Barbell, Bench
+182;Perfect Push Up;Chest;Chest;;
+2400;Pin Bench Press BB;Chest;Chest, Triceps;;Barbell
+2286;Plank;Chest;, Chest, Quads, Abs, ;Hamstrings, Calves, Lats;none (bodyweight exercise)
+189;Power Clean;Chest;Chest;;Barbell
+2053;Press de banca sentado;Chest;Chest;Shoulders, Triceps;Bench
+2268;Push Up;Chest;Chest;Shoulders, Triceps;none (bodyweight exercise)
+2274;Push Up H;Chest;Chest;Biceps, Triceps;none (bodyweight exercise)
+2276;Push Up HD;Chest;Chest;Biceps, Triceps;none (bodyweight exercise)
+2073;Push-Ups;Chest;Chest;Triceps;none (bodyweight exercise)
+2075;Push-Ups | Decline;Chest;Chest;Shoulders, Triceps;Bench, Incline bench
+2074;Push-Ups | Incline;Chest;Chest;Triceps;Bench, Incline bench
+2076;Push-Ups | Parallettes;Chest;Chest;Shoulders, Triceps;
+399;Reverse Grip Bench Press;Chest;Chest, Triceps;Shoulders;Barbell, Bench
+1204;SMITH MACHINE SLIGHT INCLINE PRESS;Chest;Chest;;
+2052;Seated Bench Press;Chest;Chest;;Bench
+302;Side to Side Push Ups;Chest;Shoulders, , Chest, Triceps;;
+2417;Torso rotation strech;Chest;;Chest;none (bodyweight exercise)
+258;Upper External Oblique;Chest;;;Pull-up bar
+2055;Abduktion im Stand;Legs;;;none (bodyweight exercise)
+2056;Abduktion im Stand;Legs;;;none (bodyweight exercise)
+2157;Adduktorenmaschine;Legs;;;
+2063;Alternate back lunges;Legs;Glutes, Quads;;none (bodyweight exercise)
+2120;Arabesque;Legs;Hamstrings, Glutes;;none (bodyweight exercise)
+407;Barbell Hack Squats;Legs;;;Barbell
+1157;Barbell Hip Thrust;Legs;Glutes;;Barbell
+1161;Barbell Hip Thrust;Legs;;;
+1156;Barbell Hip Thrust;Legs;Glutes;;Barbell
+405;Barbell Lunges Standing;Legs;Quads;Glutes;Barbell
+1053;Barbell Lunges Walking;Legs;;;Barbell
+2282;Bodyweight Squat HD;Legs;Glutes, Quads, ;Calves, , Abs;none (bodyweight exercise)
+2297;Bodyweight lunge HD;Legs;Quads;Glutes, ;none (bodyweight exercise)
+342;Braced Squat;Legs;Quads;Glutes;
+1602;Bulgarian split squats left;Legs;;;none (bodyweight exercise)
+1616;Bulgarian split squats right;Legs;;;none (bodyweight exercise)
+2332;Calf Raise with machine (seated);Legs;;;
+2402;Clean;Legs;Glutes, Quads;Hamstrings, Lats, Abs;Barbell
+2371;Cossack squat;Legs;Glutes, Quads;Calves, Abs;
+2367;Crossbody Hamstring Stretch;Legs;Hamstrings;;none (bodyweight exercise)
+2362;Crossbody Leg Swings;Legs;Hamstrings;;none (bodyweight exercise)
+2121;Curl femoral sentado;Legs;;;
+2328;Double Kettlebell Front Squat;Legs;Glutes, Quads;Hamstrings, Calves, Abs;Kettlebell
+2205;Double Leg Calf Raise;Legs;Calves, ;;none (bodyweight exercise)
+2160;Dragon squat;Legs;Quads;Hamstrings, Calves, Glutes;none (bodyweight exercise)
+2337;Dumbbell Deadlift;Legs;;;Dumbbell
+300;Dumbbell Goblet Squat;Legs;Quads;;Dumbbell
+112;Dumbbell Lunges Standing;Legs;Quads;Glutes;Dumbbell
+113;Dumbbell Lunges Walking;Legs;Quads;Glutes;Dumbbell
+2199;Dumbbell Single-leg Hip Thrust;Legs;Glutes;Hamstrings, Quads;Barbell
+2333;Dumbbell Split Squat;Legs;;;Dumbbell
+2079;Dumbbell farmer's carrie;Legs;;;Dumbbell
+2038;Dumbbell sumo deadlift;Legs;;;Dumbbell
+2358;Elephant Walks;Legs;Hamstrings;Calves;none (bodyweight exercise)
+2093;Elevación de talón de pie;Legs;Calves, ;;
+2092;Elevación de talón sentados;Legs;Calves, ;;
+2203;Exercise Band Dorsiflexion;Legs;;;none (bodyweight exercise)
+2204;Exercise Band Plantarflexion;Legs;Calves;;none (bodyweight exercise)
+2109;Extensión de gluteo en  máquina;Legs;Glutes;;
+2108;Extensión de gluteos en polea;Legs;Glutes;;
+191;Front Squats;Legs;Glutes;Abs;Barbell
+2119;Gemelos en prensa;Legs;;;
+408;Glute Bridge;Legs;Glutes;Hamstrings;
+2359;Good Morning;Legs;Hamstrings;;none (bodyweight exercise)
+116;Good Mornings;Legs;Hamstrings;;
+2383;Hack Squats;Legs;Quads;Hamstrings, Calves, Glutes;
+2365;Hamstring Chokes;Legs;Hamstrings;;none (bodyweight exercise)
+2353;Hamstring Kicks;Legs;Hamstrings;Glutes;none (bodyweight exercise)
+650;Hindu Squats;Legs;Quads;Glutes;
+854;Hip Thrust;Legs;Glutes;;Barbell, Bench
+810;Jumping Jacks;Legs;Quads;;
+249;Kettlebell Swings;Legs;Glutes;Hamstrings;Kettlebell
+2419;Knee to Chest Stretch;Legs;Glutes;Hamstrings;none (bodyweight exercise)
+1630;Kneeling kickbacks;Legs;;;none (bodyweight exercise)
+2298;Lateral Push Off;Legs;Calves;Hamstrings;none (bodyweight exercise)
+792;Leg Curl;Legs;Hamstrings, Glutes;;
+154;Leg Curls (laying);Legs;Hamstrings;;
+117;Leg Curls (sitting);Legs;Hamstrings;;
+118;Leg Curls (standing);Legs;Hamstrings;;
+1105;Leg Extension;Legs;Quads;Hamstrings;
+1105;Leg Extension;Legs;Quads;Hamstrings;
+788;Leg Press;Legs;Hamstrings, Calves, Glutes, Quads;Calves, Glutes;
+2331;Leg Press;Legs;;;
+130;Leg Press on Hackenschmidt Machine;Legs;Quads;;
+115;Leg Presses (narrow);Legs;Quads;Glutes;
+114;Leg Presses (wide);Legs;Quads;Glutes;
+791;Leg Raise;Legs;, Abs;;
+2312;Legs Abductors;Legs;;;
+2313;Legs Adductors;Legs;;;
+2310;Legs Curls;Legs;;;
+2311;Legs Extensions;Legs;;;
+389;Low Box Squat - Wide Stance;Legs;Glutes, Quads;;Barbell
+1544;Lunges;Legs;;;none (bodyweight exercise)
+1189;Nordic Curl;Legs;Hamstrings;Glutes;
+355;Overhead Squat;Legs;;;
+2401;Pin Squat;Legs;Hamstrings, Glutes, Quads;Abs;Barbell
+160;Pistol Squat;Legs;Hamstrings, Glutes;Shoulders, Biceps, ;
+1938;Pistol squats right;Legs;;;none (bodyweight exercise)
+2374;Plank with Alternating Leg Lift;Legs;Glutes;;none (bodyweight exercise)
+2243;Plantarflexion Stretch with Band;Legs;;;
+2170;Prisoner Squat;Legs;;;none (bodyweight exercise)
+1188;Reverse Nordic Curl;Legs;Quads;Glutes, Abs;
+1753;Reverse lunges;Legs;;;none (bodyweight exercise)
+351;Romanian Deadlift;Legs;;;Barbell
+2176;Romanian deadlift, single leg;Legs;Hamstrings;;Dumbbell, Kettlebell
+377;Seated Hip Adduction;Legs;Glutes;;
+2161;Side Lying Hip Abduction;Legs;;;none (bodyweight exercise)
+2152;Side Slides + Squats;Legs;Quads;Calves, Glutes;none (bodyweight exercise)
+1574;Side split squats left;Legs;;;none (bodyweight exercise)
+1588;Side split squats right;Legs;;;none (bodyweight exercise)
+1057;Single Leg Extension;Legs;Quads;;
+2360;Single Leg Hamstring Stretch;Legs;Hamstrings;;none (bodyweight exercise)
+2356;Single Leg RDL;Legs;Hamstrings, Glutes;;none (bodyweight exercise)
+2355;Single Leg RDL;Legs;Hamstrings;Glutes;none (bodyweight exercise)
+2242;Sitting Calf Stretch (Dorsiflexion);Legs;Calves, ;;
+328;Speed Deadlift;Legs;;;
+1643;Split squats left;Legs;;;none (bodyweight exercise)
+1657;Split squats right;Legs;;;none (bodyweight exercise)
+185;Squat Jumps;Legs;Quads;;
+795;Squat Thrust;Legs;Glutes, Quads, Abs, ;;none (bodyweight exercise)
+111;Squats;Legs;Quads;Glutes;Barbell
+2309;Squats (Dumbbells);Legs;Hamstrings, Calves, Glutes, Quads;;Dumbbell
+1054;Squats on Multipress;Legs;Quads;Glutes;
+2314;Standing Calf Raise;Legs;;;
+2201;Standing Calf Stretch;Legs;Calves;;none (bodyweight exercise)
+2363;Standing Pancake;Legs;Hamstrings;;none (bodyweight exercise)
+2364;Standing Pancake Good Morning;Legs;Hamstrings;;none (bodyweight exercise)
+2202;Standing Soleus Stretch;Legs;;;none (bodyweight exercise)
+1499;Step-ups;Legs;;;Bench
+2325;Stiff;Legs;Hamstrings;Glutes;Dumbbell
+209;Stiff-legged Deadlifts;Legs;Hamstrings;Glutes;Barbell
+557;Sumo Deadlift;Legs;Quads;;
+2316;Sumo Deadlifts (Barbell);Legs;;;Barbell
+570;Sumo Squats;Legs;Glutes, Quads;;none (bodyweight exercise)
+396;Thruster;Legs;Shoulders;;Barbell
+2357;Toe Touch;Legs;Hamstrings, Glutes;Calves;none (bodyweight exercise)
+2153;Wall Drills;Legs;Quads;Calves;none (bodyweight exercise)
+387;Wall Squat;Legs;Hamstrings, Quads;;none (bodyweight exercise)
+2059;Wall balls;Legs;Shoulders, Glutes, Quads;Biceps, Chest, Abs, ;Swiss Ball
+2372;Wall-sit;Legs;Glutes, Quads;Calves, Abs;
+321;Weighted Step-ups;Legs;;;
+227;Arnold Shoulder Press;Shoulders;;;Dumbbell
+1194;BUS DRIVERS;Shoulders;Shoulders;;
+268;Bent High Pulls;Shoulders;;;Dumbbell
+421;Bent-over Lateral Raises;Shoulders;;;Bench, Dumbbell
+2273;BlahBlah;Shoulders;Shoulders;;Barbell
+124;Butterfly Reverse;Shoulders;Shoulders;;
+265;Cable External Rotation;Shoulders;Shoulders;;
+2345;Cable Lateral Raises (Single Arm);Shoulders;Shoulders;;
+1078;Cable Rear Delt Fly;Shoulders;Shoulders, ;Triceps;
+2410;Clean and Jerk OL;Shoulders;Shoulders, Hamstrings, Glutes, Quads;Lats, Abs, , Triceps;Barbell
+329;Diagonal Shoulder Press;Shoulders;;;Bench
+2035;Dumbbell Bent Over Row;Shoulders;Shoulders, Biceps, Lats, , , Triceps;;Dumbbell
+2335;Dumbbell Front Raise;Shoulders;;;Dumbbell
+2334;Dumbbell Lateral Raise;Shoulders;;;Dumbbell
+2393;Dumbbell Shoulder Rotations;Shoulders;Shoulders;;Dumbbell
+2192;Dumbbell rear delt row;Shoulders;Shoulders, , ;;Dumbbell
+394;Facepull;Shoulders;;;
+1079;Front Plate Raise;Shoulders;Shoulders;;
+233;Front Raises;Shoulders;Shoulders;;Barbell, Dumbbell
+1047;Front Raises with Plates;Shoulders;Shoulders, ;;
+1163;Handstand Push Up;Shoulders;Shoulders, Triceps;Chest;
+807;Handstand Pushup;Shoulders;, Triceps;;none (bodyweight exercise)
+1847;Head turns;Shoulders;;;none (bodyweight exercise)
+164;High Pull;Shoulders;Shoulders;Glutes;
+2025;Hindu Pushups;Shoulders;Shoulders, Chest;Triceps;
+2405;Incline OHP DB;Shoulders;Shoulders;Triceps;Dumbbell
+2409;Jerk OL;Shoulders;Shoulders;Glutes, Quads, Triceps;Barbell
+2406;Kreis Press DB;Shoulders;Shoulders;Biceps, Chest, Abs, Triceps;Dumbbell
+1066;Landmine press;Shoulders;Shoulders;Chest, Triceps;Barbell
+148;Lateral Raises;Shoulders;Shoulders;;Dumbbell
+149;Lateral Rows on Cable, One Armed;Shoulders;Shoulders;;
+306;Lateral-to-Front Raises;Shoulders;Shoulders, ;;Dumbbell
+1860;Left neck stretch;Shoulders;;;none (bodyweight exercise)
+312;Lying Rotator Cuff Exercise;Shoulders;;;Dumbbell
+256;Military Press mit SZ-Bar;Shoulders;;;SZ-Bar
+2403;Pin OHP;Shoulders;Shoulders, Triceps;;Barbell
+2251;Pseudo Planche Push-up;Shoulders;Shoulders;Chest;none (bodyweight exercise)
+2404;Push OHP;Shoulders;Shoulders, Glutes, Quads;Triceps;Barbell
+190;Push Press;Shoulders;;Glutes;
+1081;Rear Delt Raise;Shoulders;Shoulders, ;Lats;Dumbbell
+237;Rear Delt Raises;Shoulders;;;Dumbbell
+1872;Right neck stretch;Shoulders;;;none (bodyweight exercise)
+2308;Schoulder Raise (Dumbbell);Shoulders;Shoulders;;Dumbbell
+1197;Seated Dumbbell Side Lateral;Shoulders;Shoulders;;Dumbbell
+119;Shoulder Press, Barbell;Shoulders;Shoulders;;Barbell
+123;Shoulder Press, Dumbbells;Shoulders;Shoulders;;Dumbbell
+152;Shoulder Press, on Machine;Shoulders;Shoulders;Triceps;
+155;Shoulder Press, on Multi Press;Shoulders;Shoulders;;
+2407;Shoulder Raise Side and Front DB;Shoulders;Shoulders;;Dumbbell
+805;Shoulder Shrug;Shoulders;;;none (bodyweight exercise)
+2031;Shoulder dislocates;Shoulders;;;
+2317;Shrugs (Shoulder Raises);Shoulders;;;Dumbbell
+1060;Shrugs on Multipress;Shoulders;Shoulders;Triceps;
+150;Shrugs, Barbells;Shoulders;Shoulders;;Barbell
+151;Shrugs, Dumbbells;Shoulders;Shoulders;;Dumbbell
+422;Side-lying External Rotation;Shoulders;;;
+1195;Smith Press;Shoulders;Shoulders;;Incline bench
+271;Snach;Shoulders;Shoulders;;Barbell
+1196;Straight Bar Cable Front Raise;Shoulders;Shoulders;;SZ-Bar
+311;Upright Row w/ Dumbbells;Shoulders;Shoulders, ;Biceps;Dumbbell
+127;Upright Row, SZ-bar;Shoulders;Shoulders, ;Biceps;SZ-Bar
+147;Upright Row, on Multi Press;Shoulders;Shoulders, ;Biceps;
+359;Wall Handstand;Shoulders;;;none (bodyweight exercise)
